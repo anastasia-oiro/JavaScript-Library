@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    background-color: tomato;
+    margin: 0;
+    height: 100px;
+    display: flex;
+
+}
+.nav h1{
+    color: yellowgreen;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 0;
+}
+#add-btn{
+background-color: teal;
+width: 90px;
+height: 42px;
+margin-top: 10px;
+
+
+
+}
+  
+form{
+    clear: both;
+    padding:50px;
+    background-color: teal;
+    border: 2px solid grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    box-sizing: content-box;
+}
+ 
+
+
+
+
+
+
+}
